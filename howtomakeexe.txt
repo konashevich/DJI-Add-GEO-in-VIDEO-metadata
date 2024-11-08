@@ -1,0 +1,2 @@
+python -m PyInstaller --onefile --add-data "exiftool_files;exiftool_files" --icon=srt.ico srt.py
+C:\Python312\python.exe -m PyInstaller --onefile --add-data "exiftool_files;exiftool_files" --icon=srt.ico srt.py
